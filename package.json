@@ -12,9 +12,9 @@
   }
   , "repository" : {
       "type" : "git",
-      "url" : "http://github.com/vesln/Redr.git"
+      "url" : "http://github.com/vesln/redr.git"
   }
-  , "homepage": "http://github.com/vesln/Redr"
+  , "homepage": "http://github.com/vesln/redr"
   , "scripts": {
       "test": "make test"
   }
