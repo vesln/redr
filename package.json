@@ -1,5 +1,5 @@
 {
-    "name": "Redr"
+    "name": "redr"
   , "version": "0.0.1"
   , "description": "Lazy require with filter logic"
   , "keywords": ["require", "lazy load"]
