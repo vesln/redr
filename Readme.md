@@ -8,6 +8,10 @@ Lazy require for files.
 - Require only what you *really* have to.
 - Because I use it like everywhere and I'm too lazy to copy-paste code.
 
+## Install
+	
+	$ npm install redr
+
 ## Usage
 
 	var Redr = require('redr');
@@ -23,10 +27,6 @@ Lazy require for files.
 	
 	$ npm install
 	$ make test
-
-## Inspiration
-
-
 
 ## License
 
