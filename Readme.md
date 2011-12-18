@@ -1,3 +1,5 @@
+[![Build Status](https://secure.travis-ci.org/vesln/redr.png)](http://travis-ci.org/vesln/redr)
+
 # Redr
 
 Lazy require for files.
