@@ -1,0 +1,23 @@
+{
+    "name": "Redr"
+  , "version": "0.0.1"
+  , "description": "Lazy require with filter logic"
+  , "keywords": ["require", "lazy load"]
+  , "author": "Veselin Todorov <hi@vesln.com>"
+  , "dependencies": {
+  }
+  , "devDependencies": {
+      "mocha": "0.3.3"
+    , "should": "0.3.2"
+  }
+  , "repository" : {
+      "type" : "git",
+      "url" : "http://github.com/vesln/Redr.git"
+  }
+  , "homepage": "http://github.com/vesln/Redr"
+  , "scripts": {
+      "test": "make test"
+  }
+  , "main": "index"
+  , "engines": { "node": ">= 0.6.0 < 0.7.0" }
+}
