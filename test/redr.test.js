@@ -59,12 +59,15 @@ describe('Redr', function() {
   describe('load', function(done) {
     it('should load all files from path and define getters afterwards', function() {
       var redr = new Redr(support).load();
-      Object.keys(redr.get).should.eql(['file1', 'file2']);
+      redr.get.file1.should.be.ok;
+      redr.get.file2.should.be.ok;
     });
     
     it('should load all files from multiple dirs', function() {
       var redr = new Redr([support, support + 'more']).load();
-       Object.keys(redr.get).should.eql(['file1', 'file2', 'file3']);
+      redr.get.file1.should.be.ok;
+      redr.get.file2.should.be.ok;
+      redr.get.file3.should.be.ok;
     });
   });
 });
