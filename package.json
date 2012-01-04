@@ -1,6 +1,6 @@
 {
     "name": "redr"
-  , "version": "0.0.1"
+  , "version": "0.0.2"
   , "description": "Lazy require with filter logic"
   , "keywords": ["require", "lazy load"]
   , "author": "Veselin Todorov <hi@vesln.com>"
