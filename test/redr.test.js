@@ -9,6 +9,10 @@ var Redr = require('../');
 var support = __dirname + '/support/';
 
 describe('Redr', function() {
+  it('should expose version', function() {
+    Redr.version.should.be.ok;
+  });
+  
   describe('constructor', function() {
     it('should add validators', function() {
       var redr = new Redr;
