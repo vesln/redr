@@ -1,5 +1,8 @@
 
-n.n.n / 2011-12-18 
+0.0.2 / 2012-01-04 
 ==================
 
-
+  * Bumping version number
+  * Version test
+  * Adding package as dep
+  * Refactoring a test in order to pass in all envs
