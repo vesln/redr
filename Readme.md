@@ -1,5 +1,9 @@
 [![Build Status](https://secure.travis-ci.org/vesln/redr.png)](http://travis-ci.org/vesln/redr)
 
+# Important Notice
+
+I'm no longer actively maintaining this project. If you are interested in taking over - [ping me on twitter](https://twitter.com/vesln). Thanks!
+
 # Redr
 
 Lazy require for files.
